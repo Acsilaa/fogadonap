@@ -1,3 +1,7 @@
 isValidPass(pass):
         1 szam, 1 nagy es kis betu, szimbolum(#!@()*%)
         return True/False
+
+0 - 40
+adat ?
+bool
