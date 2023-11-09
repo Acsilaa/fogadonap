@@ -6,6 +6,9 @@
     <title>NI</title>
 </head>
 <body>
-    <h1>NIG</h1>
+    {% for teacher in data %}
+    <h1>{{teacher.name}} - {{teacher.first}} - {{teacher.last}}</h1>
+    {% endfor %}
+    ☺
 </body>
 </html>
